@@ -79,3 +79,8 @@ Industria/
 ### Saída Esperada
 
 O programa deve exibir informações dos funcionários conforme especificado nos requisitos, incluindo a lista de funcionários, agrupamentos, aniversários em outubro e dezembro, funcionário mais velho, ordenação alfabética, total de salários, e salários mínimos por funcionário.
+
+<img width="761" alt="Captura de Tela 2024-06-13 às 17 55 34" src="https://github.com/JoanaRolim/java-prothera/assets/62566283/96aa3a89-e13d-4da4-9560-aba8f6e3a4dc">
+<img width="976" alt="Captura de Tela 2024-06-13 às 17 55 43" src="https://github.com/JoanaRolim/java-prothera/assets/62566283/7b20c764-1b25-452f-936a-01cf65ed2011">
+
+
